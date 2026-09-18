@@ -16,3 +16,7 @@
 - REST, JSON
 - Git, GitHub
 - SQL (базовый)
+
+## Контакты
+- Telegram: @oklatri
+- Email: oklatriy@gmail.com

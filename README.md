@@ -9,7 +9,7 @@
 - Инструменты: Jira, Git, Charles Proxy
 
 ## Мои проекты
-- [API Testing — JSONPlaceholder](https://github.com/oklatri/api-testing-jsonplaceholder) — 3 тест-кейса, коллекция Postman, скриншоты
+- [API Testing — JSONPlaceholder](https://github.com/oklatri/api-testing-jsonplaceholder) — 8 тест-кейсов, 3 баг-репорта, коллекция Postman, 8 скриншотов
 
 ## Технологии и инструменты
 - Postman

@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я [Твоё имя] 👋
 
-<!--
-**oklatri/oklatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий QA Engineer из Москвы. Ищу стажировку или работу в тестировании.
 
-Here are some ideas to get you started:
+## Что я изучаю
+- Ручное тестирование (тест-кейсы, чек-листы, баг-репорты)
+- API-тестирование (Postman, REST, JSON)
+- SQL (MySQL)
+- Инструменты: Jira, Git, Charles Proxy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+- [API Testing — JSONPlaceholder](https://github.com/oklatri/api-testing-jsonplaceholder) — 3 тест-кейса, коллекция Postman, скриншоты
+
+## Технологии и инструменты
+- Postman
+- REST, JSON
+- Git, GitHub
+- SQL (базовый)

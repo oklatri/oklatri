@@ -10,7 +10,7 @@
 
 ## Мои проекты
 - [API Testing — JSONPlaceholder](https://github.com/oklatri/api-testing-jsonplaceholder) — 8 тест-кейсов, 3 баг-репорта, коллекция Postman, 8 скриншотов
-- [Manual Testing — SauceDemo](https://github.com/oklatri/manual-testing-saucedemo) — 6 тест-кейсов, 12 баг-репортов, чек-лист, скриншоты
+- [Manual Testing — SauceDemo](https://github.com/oklatri/manual-testing-saucedemo) — 15 тест-кейсов, 12 баг-репортов, чек-лист, скриншоты
 - [SQL Portfolio — MySQL](https://github.com/oklatri/sql-portfolio) — 15 SQL-запросов, 5 тем, скриншоты
   
 ## Технологии и инструменты

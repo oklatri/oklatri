@@ -16,7 +16,7 @@
 ## Мои проекты
 
 - [API Testing — JSONPlaceholder](https://github.com/oklatri/api-testing-jsonplaceholder) — 8 тест-кейсов, 3 баг-репорта, коллекция Postman с 13 автотестами
-- [Manual Testing — SauceDemo](https://github.com/oklatri/manual-testing-saucedemo) — 15 тест-кейсов, 12 баг-репортов, чек-лист, Test Plan
+- [Manual Testing — SauceDemo](https://github.com/oklatri/manual-testing-saucedemo) — 18 тест-кейсов, 12 баг-репортов, чек-лист, Test Plan
 - [SQL Portfolio — MySQL](https://github.com/oklatri/sql-portfolio) — 20 SQL-запросов (SELECT, JOIN, GROUP BY, агрегация, data validation)
 - [UI Automation — Playwright](https://github.com/oklatri/ui-automation-playwright) — 8 автотестов для SauceDemo, Page Object Model
 
